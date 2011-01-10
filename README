@@ -1,0 +1,6 @@
+This is a small card game api written in Scala.
+
+It provides the ability to initialize a deck of cards and a player's hand. One may also shuffle the deck, sort a hand,
+and move a card from the deck into a player's hand.
+
+This example uses Scala 2.8.
